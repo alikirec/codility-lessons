@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/alikirec/codility-lessons#readme",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^28.1.0"
   }
 }
