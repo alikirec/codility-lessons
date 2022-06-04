@@ -1,4 +1,4 @@
-const rotateArray = require('../problems/03_rotate_array')
+const rotateArray = require('../problems/02_01_rotate_array')
 
 describe('03 Cyclic rotation', () => {
   it('should return the array A rotated K times', () => {
