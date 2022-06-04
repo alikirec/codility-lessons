@@ -1,4 +1,4 @@
-const longestBinaryGap = require('../problems/01_longest_binary_gap')
+const longestBinaryGap = require('../problems/01_01_longest_binary_gap')
 
 describe('01 Binary Gap', () => {
   it('should return 0 if there is no gap', () => {
